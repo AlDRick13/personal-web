@@ -52,10 +52,11 @@ button {
 button:hover {
     background-color: rgba(0,136,169,0.8);
 }
-/* ==================== segunda seccion ====================*/
-.bg {
-    background-image: url("../img/TOKYO-BG.jpg");
+/* ==================== BANNER ====================*/
+.banner {
+    height: 400px;
     background: gray;
+    background-image: url('../img/TOKYO-BG.jpg');
     background-size: cover;
 }
 
