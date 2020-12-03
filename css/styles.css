@@ -58,6 +58,10 @@ button:hover {
     background: gray;
     background-image: url('../img/TOKYO-BG.jpg');
     background-size: cover;
+    position: relative;
+    top: 60px;
+    width: 100%;
+    min-width: 500px;
 }
 
 /* ==================== COMPONENTS ====================*/
